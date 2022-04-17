@@ -12,6 +12,7 @@ If the user would have choosen Rental Radio Button and Buy_A_Vehicle buttons the
 Therefore output the calculations based on the users choices
 
 The radio buttons will have a label explaining that user should only choose one of each
+All the user inputs across the forms are inherited to the main form you might see this if ever you will run the application
 
 This application waas developed using C# WPF Visual Studio 2017
 This can only be used with Visual Studio
